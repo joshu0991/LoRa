@@ -1,0 +1,7 @@
+Send and receive packets on the Multitech AP;  http://www.multitech.net/developer/software/lora/conduit-mlinux-lora-communication/
+Working with third party devices;  http://www.multitech.net/developer/software/lora/conduit-mlinux-lora-communication/conduit-mlinux-lora-use-third-party-devices/
+Adding a new node;  http://www.multitech.net/developer/software/lora/lora-network-server/
+
+
+nc for listening:
+nc --udp --listen --local-port 1784
