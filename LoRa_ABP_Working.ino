@@ -90,20 +90,8 @@ void setup(void)
     lora.setDeciveMode(LWABP);
     lora.setDataRate(DR0, US915HYBRID);
     lora.setPower(MAX_EIRP_NDX_US);
-    setHybridForTTN(US_hybrid_channels);
     lora.setReceiceWindowFirst(1);
     lora.setReceiceWindowSecond(FREQ_RX_WNDW_SCND_US, DOWNLINK_DATA_RATE_US);
-}
-
-void setHybridForTTN(const float* channels){
-    
-    for(int i = 0; i < 8; i++){
-        // DR0 is the min data rate
-        // US_RX_DR = DR3 is the max data rate for the US
-        if(channels[i] != 0){
-          lora.setChannel(i, channels[i], UPLINK_DATA_RATE_MIN, UPLINK_DATA_RATE_MAX_US);
-        }
-    }
 }
 
 void loop(void)
