@@ -18,3 +18,11 @@ lora-query -x device delete abf7158809cf4f3c
 lora-query -x device add '{"deveui":"ab-f7-15-88-09-cf-4f-3c","class":"A"}'
 lora-query -x session add '{"deveui":"abf7158809cf4f3c","dev_addr":"22334455","appeui":"abf7158809cf4f3c","joineui":"abf7158809cf4f3c","net_id":"000017","app_senc_key":"531bd9c5ec5d8ba5ef3b262cebfb3e67","fnwk_sint_key":"531bd9c5ec5d8ba5ef3b262cebfb3e67"}'
 
+Trouble shooting guide:
+http://www.multitech.net/developer/wp-content/uploads/downloads/2018/03/LoRaWANTroubleShootingGuide-030920181.pdf
+
+Base 64 to hex:
+https://cryptii.com/base64-to-hex
+
+Hex to base 64:
+http://tomeko.net/online_tools/hex_to_base64.php?lang=en
