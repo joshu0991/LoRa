@@ -5,3 +5,6 @@ Adding a new node;  http://www.multitech.net/developer/software/lora/lora-networ
 
 nc for listening:
 nc --udp --listen --local-port 1784
+
+nc for transmitting:
+lora/ab-f7-15-88-09-cf-4f-3c/down {"data":"SGVsbG8="}
