@@ -7,4 +7,14 @@ nc for listening:
 nc --udp --listen --local-port 1784
 
 nc for transmitting:
+nc --udp localhost 1786
 lora/ab-f7-15-88-09-cf-4f-3c/down {"data":"SGVsbG8="}
+
+Log file reading:
+tail -f /var/log/messages
+
+Add end device manually:
+lora-query -x device delete abf7158809cf4f3c
+lora-query -x device add '{"deveui":"ab-f7-15-88-09-cf-4f-3c","class":"A"}'
+lora-query -x session add '{"deveui":"abf7158809cf4f3c","dev_addr":"22334455","appeui":"abf7158809cf4f3c","joineui":"abf7158809cf4f3c","net_id":"000017","app_senc_key":"531bd9c5ec5d8ba5ef3b262cebfb3e67","fnwk_sint_key":"531bd9c5ec5d8ba5ef3b262cebfb3e67"}'
+
