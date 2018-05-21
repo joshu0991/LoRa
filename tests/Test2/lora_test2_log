@@ -1,0 +1,1067 @@
+
+2018-05-20T19:15:12.882343-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:15:12.887425-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|REJECTED|REASON: Message received from unknown device 22-33-44-55 VALUE: 45
+2018-05-20T19:15:18.952790-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:15:18.957817-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|REJECTED|REASON: Message received from unknown device 22-33-44-55 VALUE: 45
+2018-05-20T19:15:25.015909-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:15:25.018912-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000003 LAST-FCNT: 00000000 Duplicate: no
+2018-05-20T19:15:25.019882-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:15:25.020518-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|MISSED-PKT|Count: 2
+2018-05-20T19:15:25.021322-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:15:25.022172-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:15:25.022988-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:122 ms
+2018-05-20T19:15:25.790737-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:15:31.082370-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:15:31.084876-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000004 LAST-FCNT: 00000003 Duplicate: no
+2018-05-20T19:15:31.086593-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:15:31.088290-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:15:31.089908-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:15:31.090848-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:122 ms
+2018-05-20T19:15:31.854986-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:15:37.149264-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:15:37.150685-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000005 LAST-FCNT: 00000004 Duplicate: no
+2018-05-20T19:15:37.150946-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:15:37.151185-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:15:37.151497-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:15:37.151912-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:122 ms
+2018-05-20T19:15:37.927591-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:15:43.220810-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:15:43.223309-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000006 LAST-FCNT: 00000005 Duplicate: no
+2018-05-20T19:15:43.231275-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:15:43.232973-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:15:43.234709-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:15:43.236792-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:122 ms
+2018-05-20T19:15:43.990202-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:15:49.290565-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:15:49.293130-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000007 LAST-FCNT: 00000006 Duplicate: no
+2018-05-20T19:15:49.294836-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:15:49.296530-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:15:49.301376-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:15:49.303238-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:122 ms
+2018-05-20T19:15:50.063597-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:15:55.357956-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:15:55.360845-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000008 LAST-FCNT: 00000007 Duplicate: no
+2018-05-20T19:15:55.361510-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:15:55.362167-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:15:55.362880-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:15:55.363699-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:122 ms
+2018-05-20T19:15:56.127229-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:16:01.424926-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:16:01.427596-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000009 LAST-FCNT: 00000008 Duplicate: no
+2018-05-20T19:16:01.429305-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:16:01.430341-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:16:01.430662-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:16:01.431080-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:122 ms
+2018-05-20T19:16:02.198437-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:16:02.287576-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:114
+2018-05-20T19:16:02.287851-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:16:07.492095-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:16:07.494820-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000000a LAST-FCNT: 00000009 Duplicate: no
+2018-05-20T19:16:07.500915-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:16:07.502743-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:16:07.504679-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:16:07.506535-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:132 ms
+2018-05-20T19:16:08.248966-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC7 DEV: 22-33-44-55 FCNT: 00000001 REPEAT: 0
+2018-05-20T19:16:08.254308-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 1 PKT-ROOM: 242
+2018-05-20T19:16:08.265970-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:301
+2018-05-20T19:16:08.269374-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:16:13.563712-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:16:13.566364-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000000b LAST-FCNT: 0000000a Duplicate: no
+2018-05-20T19:16:13.568306-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:16:13.569862-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:16:13.570711-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:16:13.571533-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:122 ms
+2018-05-20T19:16:14.325450-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:16:14.894088-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:115
+2018-05-20T19:16:14.895996-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:16:18.344925-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:116
+2018-05-20T19:16:18.346627-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:16:19.628402-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:16:19.630674-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000000c LAST-FCNT: 0000000b Duplicate: no
+2018-05-20T19:16:19.631344-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:16:19.632002-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:16:19.632720-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:16:19.633545-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:132 ms
+2018-05-20T19:16:20.393917-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC1 DEV: 22-33-44-55 FCNT: 00000002 REPEAT: 0
+2018-05-20T19:16:20.398860-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|MAC-COMMAND|ADR CMD 0340ff0001
+2018-05-20T19:16:20.399829-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 2 PKT-ROOM: 237
+2018-05-20T19:16:20.412197-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:309
+2018-05-20T19:16:20.415629-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:16:21.007571-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:117
+2018-05-20T19:16:21.009979-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:16:23.268478-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:118
+2018-05-20T19:16:23.268751-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:16:25.386719-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:16:25.389530-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000000d LAST-FCNT: 0000000c Duplicate: no
+2018-05-20T19:16:25.391446-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:16:25.393141-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:16:25.395476-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:2 
+2018-05-20T19:16:25.397493-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:62 ms
+2018-05-20T19:16:25.747237-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:119
+2018-05-20T19:16:25.747513-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:16:26.165486-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 00000003 REPEAT: 0
+2018-05-20T19:16:26.170238-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 4 PKT-ROOM: 242
+2018-05-20T19:16:26.180957-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:16:26.184045-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:16:27.969332-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:120
+2018-05-20T19:16:27.971678-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:16:30.228589-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:121
+2018-05-20T19:16:30.228864-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:16:31.455698-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:16:31.458354-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000000e LAST-FCNT: 0000000d Duplicate: no
+2018-05-20T19:16:31.459974-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:16:31.460632-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:16:31.465769-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:16:31.466771-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:62 ms
+2018-05-20T19:16:32.222575-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 00000004 REPEAT: 0
+2018-05-20T19:16:32.227633-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 5 PKT-ROOM: 242
+2018-05-20T19:16:32.237951-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:16:32.241772-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:16:32.885471-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:122
+2018-05-20T19:16:32.887175-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:16:35.344232-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:123
+2018-05-20T19:16:35.346230-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:16:37.522204-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:16:37.524863-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000000f LAST-FCNT: 0000000e Duplicate: no
+2018-05-20T19:16:37.529983-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:16:37.531810-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:16:37.533552-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:16:37.535580-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:62 ms
+2018-05-20T19:16:37.710395-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:124
+2018-05-20T19:16:37.712102-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:16:38.291226-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 00000005 REPEAT: 0
+2018-05-20T19:16:38.294544-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 7 PKT-ROOM: 242
+2018-05-20T19:16:38.306334-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:16:38.309414-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:16:39.849373-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:125
+2018-05-20T19:16:39.851858-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:16:41.909009-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:126
+2018-05-20T19:16:41.909281-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:16:43.589827-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:16:43.592321-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000010 LAST-FCNT: 0000000f Duplicate: no
+2018-05-20T19:16:43.594193-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:16:43.598073-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:16:43.605546-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:16:43.606357-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:62 ms
+2018-05-20T19:16:44.346749-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 00000006 REPEAT: 0
+2018-05-20T19:16:44.360325-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 8 PKT-ROOM: 242
+2018-05-20T19:16:44.381265-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:16:44.384747-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:16:44.811398-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:127
+2018-05-20T19:16:44.813410-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:16:47.210177-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:128
+2018-05-20T19:16:47.211879-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:16:49.578342-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:129
+2018-05-20T19:16:49.578613-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:16:49.660874-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:16:49.663707-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000011 LAST-FCNT: 00000010 Duplicate: no
+2018-05-20T19:16:49.670150-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:16:49.671983-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:16:49.673880-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:16:49.675732-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:62 ms
+2018-05-20T19:16:50.417946-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 00000007 REPEAT: 0
+2018-05-20T19:16:50.423126-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 10 PKT-ROOM: 242
+2018-05-20T19:16:50.434287-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:16:50.437709-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:16:51.920499-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:130
+2018-05-20T19:16:51.922360-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:16:54.280486-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:131
+2018-05-20T19:16:54.282190-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:16:55.724905-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:16:55.727399-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000012 LAST-FCNT: 00000011 Duplicate: no
+2018-05-20T19:16:55.729158-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:16:55.730063-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:16:55.730378-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:16:55.730782-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:62 ms
+2018-05-20T19:16:56.496912-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 00000008 REPEAT: 0
+2018-05-20T19:16:56.501718-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 11 PKT-ROOM: 242
+2018-05-20T19:16:56.512392-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:16:56.515853-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:16:56.550944-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:132
+2018-05-20T19:16:56.552658-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:16:59.211221-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:133
+2018-05-20T19:16:59.212932-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:17:01.789420-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:17:01.791344-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000013 LAST-FCNT: 00000012 Duplicate: no
+2018-05-20T19:17:01.791595-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:17:01.791828-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:17:01.792134-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:17:01.792532-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:62 ms
+2018-05-20T19:17:02.566245-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 00000009 REPEAT: 0
+2018-05-20T19:17:02.571483-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 12 PKT-ROOM: 242
+2018-05-20T19:17:02.582495-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:17:02.585748-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:17:07.861037-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:17:07.864222-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000014 LAST-FCNT: 00000013 Duplicate: no
+2018-05-20T19:17:07.865917-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:17:07.867606-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:17:07.869330-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:17:07.870019-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:62 ms
+2018-05-20T19:17:08.635691-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 0000000a REPEAT: 0
+2018-05-20T19:17:08.638974-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 11 PKT-ROOM: 242
+2018-05-20T19:17:08.650236-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:17:08.653995-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:17:13.920882-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:17:13.923377-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000015 LAST-FCNT: 00000014 Duplicate: no
+2018-05-20T19:17:13.929927-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:17:13.931624-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:17:13.933358-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:17:13.935411-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:62 ms
+2018-05-20T19:17:14.691284-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 0000000b REPEAT: 0
+2018-05-20T19:17:14.694635-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 10 PKT-ROOM: 242
+2018-05-20T19:17:14.705974-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:17:14.709064-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:17:19.992012-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:17:19.994517-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000016 LAST-FCNT: 00000015 Duplicate: no
+2018-05-20T19:17:19.996216-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:17:19.997904-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:17:20.000180-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:17:20.008897-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:62 ms
+2018-05-20T19:17:20.761482-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 0000000c REPEAT: 0
+2018-05-20T19:17:20.764884-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 9 PKT-ROOM: 242
+2018-05-20T19:17:20.776226-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:17:20.779309-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:17:26.059947-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:17:26.062442-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000017 LAST-FCNT: 00000016 Duplicate: no
+2018-05-20T19:17:26.068627-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:17:26.069859-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:17:26.070571-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:17:26.071383-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:62 ms
+2018-05-20T19:17:26.823301-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 0000000d REPEAT: 0
+2018-05-20T19:17:26.828453-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 8 PKT-ROOM: 242
+2018-05-20T19:17:26.839216-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:17:26.841337-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:17:32.131263-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:17:32.133760-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000018 LAST-FCNT: 00000017 Duplicate: no
+2018-05-20T19:17:32.140290-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:17:32.141995-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:17:32.143732-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:17:32.145708-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:62 ms
+2018-05-20T19:17:32.893314-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 0000000e REPEAT: 0
+2018-05-20T19:17:32.896599-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 7 PKT-ROOM: 242
+2018-05-20T19:17:32.907523-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:17:32.911152-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:17:38.197506-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:17:38.200242-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000019 LAST-FCNT: 00000018 Duplicate: no
+2018-05-20T19:17:38.201938-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:17:38.203617-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:17:38.205343-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:17:38.207466-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:62 ms
+2018-05-20T19:17:38.957050-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 0000000f REPEAT: 0
+2018-05-20T19:17:38.970857-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 6 PKT-ROOM: 242
+2018-05-20T19:17:38.992081-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:17:38.995786-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:17:44.264732-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:17:44.267233-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000001a LAST-FCNT: 00000019 Duplicate: no
+2018-05-20T19:17:44.268944-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:17:44.269853-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:17:44.270562-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:17:44.271541-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:62 ms
+2018-05-20T19:17:45.060999-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 00000010 REPEAT: 0
+2018-05-20T19:17:45.065618-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 5 PKT-ROOM: 242
+2018-05-20T19:17:45.076440-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:17:45.085179-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:17:50.330608-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:17:50.333113-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000001b LAST-FCNT: 0000001a Duplicate: no
+2018-05-20T19:17:50.339251-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:17:50.339990-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:17:50.340316-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:17:50.340728-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:62 ms
+2018-05-20T19:17:51.106301-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 00000011 REPEAT: 0
+2018-05-20T19:17:51.111440-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 4 PKT-ROOM: 242
+2018-05-20T19:17:51.122746-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:17:51.126211-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:17:56.402500-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:17:56.405342-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000001c LAST-FCNT: 0000001b Duplicate: no
+2018-05-20T19:17:56.407041-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:17:56.408945-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:17:56.410280-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:17:56.411093-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:62 ms
+2018-05-20T19:17:57.165299-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 00000012 REPEAT: 0
+2018-05-20T19:17:57.168709-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 3 PKT-ROOM: 242
+2018-05-20T19:17:57.180007-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:17:57.183638-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:18:01.733372-04:00 mtcap sshd[20354]: Received disconnect from 192.168.2.138: 11: disconnected by user
+2018-05-20T19:18:01.740442-04:00 mtcap sshd[25520]: Received disconnect from 192.168.2.138: 11: disconnected by user
+2018-05-20T19:18:02.465292-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:18:02.468233-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000001d LAST-FCNT: 0000001c Duplicate: no
+2018-05-20T19:18:02.470031-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:18:02.470689-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:18:02.471402-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:18:02.472209-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:62 ms
+2018-05-20T19:18:03.244648-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 00000013 REPEAT: 0
+2018-05-20T19:18:03.249274-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 2 PKT-ROOM: 242
+2018-05-20T19:18:03.258859-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:18:03.261052-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:18:08.534813-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:18:08.537312-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000001e LAST-FCNT: 0000001d Duplicate: no
+2018-05-20T19:18:08.539015-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:18:08.541282-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:18:08.541606-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:18:08.542013-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:62 ms
+2018-05-20T19:18:09.300756-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 00000014 REPEAT: 0
+2018-05-20T19:18:09.303967-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 1 PKT-ROOM: 242
+2018-05-20T19:18:09.315202-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:18:09.318284-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:18:14.607538-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:18:14.610625-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000001f LAST-FCNT: 0000001e Duplicate: no
+2018-05-20T19:18:14.612456-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:18:14.614145-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:18:14.615881-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:18:14.623283-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:18:15.366737-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:18:20.666068-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:18:20.668829-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000020 LAST-FCNT: 0000001f Duplicate: no
+2018-05-20T19:18:20.669852-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:18:20.670504-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:18:20.671448-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:18:20.672251-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:18:21.424632-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:18:26.741908-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:18:26.744412-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000021 LAST-FCNT: 00000020 Duplicate: no
+2018-05-20T19:18:26.746118-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:18:26.747813-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:18:26.755774-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:18:26.757632-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:18:27.501284-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:18:32.806039-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:18:32.808531-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000022 LAST-FCNT: 00000021 Duplicate: no
+2018-05-20T19:18:32.810275-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:18:32.810923-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:18:32.811631-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:18:32.812629-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:18:33.587569-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:18:38.869075-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:18:38.870878-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000023 LAST-FCNT: 00000022 Duplicate: no
+2018-05-20T19:18:38.871503-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:18:38.871753-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:18:38.872067-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:18:38.872471-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:18:39.661608-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 00000015 REPEAT: 0
+2018-05-20T19:18:39.665119-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|MAC-COMMAND|ADR CMD 0330ff0001
+2018-05-20T19:18:39.665336-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 0 PKT-ROOM: 237
+2018-05-20T19:18:39.677142-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:18:39.680409-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:18:44.977001-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:18:45.000126-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000024 LAST-FCNT: 00000023 Duplicate: no
+2018-05-20T19:18:45.001828-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:18:45.003533-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:18:45.005857-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:2 
+2018-05-20T19:18:45.007721-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:18:45.756661-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:18:51.041789-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:18:51.044617-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000025 LAST-FCNT: 00000024 Duplicate: no
+2018-05-20T19:18:51.046317-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:18:51.048011-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:18:51.049846-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:18:51.051835-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:18:51.814929-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:18:57.106734-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:18:57.109229-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000026 LAST-FCNT: 00000025 Duplicate: no
+2018-05-20T19:18:57.114334-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:18:57.114584-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:18:57.114903-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:18:57.115321-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:18:57.875598-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:19:03.168484-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:19:03.170698-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000027 LAST-FCNT: 00000026 Duplicate: no
+2018-05-20T19:19:03.171360-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:19:03.172017-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:19:03.178623-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:19:03.179759-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:19:03.943587-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:19:09.234922-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:19:09.237610-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000028 LAST-FCNT: 00000027 Duplicate: no
+2018-05-20T19:19:09.239371-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:19:09.239847-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:19:09.240169-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:19:09.240589-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:19:10.000666-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:19:15.306823-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:19:15.309792-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000029 LAST-FCNT: 00000028 Duplicate: no
+2018-05-20T19:19:15.311486-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:19:15.313436-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:19:15.315174-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:19:15.323194-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:19:16.065879-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:19:21.371202-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:19:21.373718-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000002a LAST-FCNT: 00000029 Duplicate: no
+2018-05-20T19:19:21.375582-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:19:21.377282-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:19:21.381620-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:19:21.383475-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:19:22.135421-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:19:27.445042-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:19:27.447665-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000002b LAST-FCNT: 0000002a Duplicate: no
+2018-05-20T19:19:27.449363-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:19:27.449929-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:19:27.450255-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:19:27.450667-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:19:28.205189-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:19:33.511757-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:19:33.514830-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000002c LAST-FCNT: 0000002b Duplicate: no
+2018-05-20T19:19:33.516534-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:19:33.518228-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:19:33.519947-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:19:33.520816-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:19:34.272224-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC1 DEV: 22-33-44-55 FCNT: 00000016 REPEAT: 0
+2018-05-20T19:19:34.275575-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|MAC-COMMAND|ADR CMD 0340ff0001
+2018-05-20T19:19:34.275794-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 0 PKT-ROOM: 237
+2018-05-20T19:19:34.287960-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:19:34.291546-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:19:39.550537-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:19:39.553189-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000002d LAST-FCNT: 0000002c Duplicate: no
+2018-05-20T19:19:39.554897-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:19:39.556595-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:19:39.561703-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:2 
+2018-05-20T19:19:39.563690-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:19:40.331618-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:19:45.618460-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:19:45.620656-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000002e LAST-FCNT: 0000002d Duplicate: no
+2018-05-20T19:19:45.621321-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:19:45.621980-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:19:45.622692-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:19:45.623626-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:19:46.386669-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:19:51.680741-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:19:51.683237-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000002f LAST-FCNT: 0000002e Duplicate: no
+2018-05-20T19:19:51.684940-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:19:51.686629-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:19:51.688523-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:19:51.690398-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:19:52.446478-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:19:57.748392-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:19:57.750736-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000030 LAST-FCNT: 0000002f Duplicate: no
+2018-05-20T19:19:57.755738-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:19:57.756402-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:19:57.757115-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:19:57.758097-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:19:58.521492-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:20:03.813332-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:20:03.815833-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000031 LAST-FCNT: 00000030 Duplicate: no
+2018-05-20T19:20:03.817543-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:20:03.819285-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:20:03.819914-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:20:03.826073-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:20:04.581307-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:20:09.881336-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:20:09.889302-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000032 LAST-FCNT: 00000031 Duplicate: no
+2018-05-20T19:20:09.890169-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:20:09.890426-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:20:09.890742-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:20:09.891152-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:20:10.650826-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:20:15.946380-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:20:15.949009-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000033 LAST-FCNT: 00000032 Duplicate: no
+2018-05-20T19:20:15.949865-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:20:15.950524-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:20:15.951236-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:20:15.952052-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:20:16.711169-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:20:22.016519-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:20:22.019226-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000034 LAST-FCNT: 00000033 Duplicate: no
+2018-05-20T19:20:22.019886-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:20:22.020139-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:20:22.020458-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:20:22.020866-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:20:22.780819-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:20:28.085148-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:20:28.087819-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000035 LAST-FCNT: 00000034 Duplicate: no
+2018-05-20T19:20:28.089961-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:20:28.091655-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:20:28.093376-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:20:28.100091-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:20:28.845541-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 00000017 REPEAT: 0
+2018-05-20T19:20:28.848892-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|MAC-COMMAND|ADR CMD 0330ff0001
+2018-05-20T19:20:28.849108-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 0 PKT-ROOM: 237
+2018-05-20T19:20:28.861131-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:20:28.864636-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:20:34.191605-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:20:34.194680-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000036 LAST-FCNT: 00000035 Duplicate: no
+2018-05-20T19:20:34.196382-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:20:34.198068-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:20:34.200639-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:2 
+2018-05-20T19:20:34.208090-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:20:34.949271-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:20:40.246737-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:20:40.249222-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000037 LAST-FCNT: 00000036 Duplicate: no
+2018-05-20T19:20:40.249968-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:20:40.250224-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:20:40.250821-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:20:40.251250-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:20:41.006972-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:20:46.314987-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:20:46.317477-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000038 LAST-FCNT: 00000037 Duplicate: no
+2018-05-20T19:20:46.319181-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:20:46.319853-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:20:46.320181-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:20:46.320597-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:20:47.092195-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:20:52.382499-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:20:52.384995-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000039 LAST-FCNT: 00000038 Duplicate: no
+2018-05-20T19:20:52.386697-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:20:52.388615-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:20:52.389924-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:20:52.390742-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:20:53.160147-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:20:57.468545-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:20:57.470047-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|CRC-ERROR
+2018-05-20T19:20:58.450701-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:20:58.453206-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000003a LAST-FCNT: 00000039 Duplicate: no
+2018-05-20T19:20:58.454967-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:20:58.456820-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:20:58.458549-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:20:58.466217-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:20:59.193990-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:20:59.196172-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|CRC-ERROR
+2018-05-20T19:20:59.219175-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:21:04.515190-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:21:04.518400-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000003b LAST-FCNT: 0000003a Duplicate: no
+2018-05-20T19:21:04.519870-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:21:04.520526-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:21:04.521240-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:21:04.522059-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:21:05.291336-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC1 DEV: 22-33-44-55 FCNT: 00000018 REPEAT: 0
+2018-05-20T19:21:05.294658-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|MAC-COMMAND|ADR CMD 0340ff0001
+2018-05-20T19:21:05.294873-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 0 PKT-ROOM: 237
+2018-05-20T19:21:05.306118-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:21:05.309197-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:21:10.559392-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:21:10.560775-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000003c LAST-FCNT: 0000003b Duplicate: no
+2018-05-20T19:21:10.561038-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:21:10.561283-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:21:10.562197-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:2 
+2018-05-20T19:21:10.562615-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:21:11.325361-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:21:16.627850-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:21:16.630458-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000003d LAST-FCNT: 0000003c Duplicate: no
+2018-05-20T19:21:16.632176-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:21:16.633991-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:21:16.641377-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:21:16.643238-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:21:17.397959-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:21:22.689668-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:21:22.692340-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000003e LAST-FCNT: 0000003d Duplicate: no
+2018-05-20T19:21:22.698466-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:21:22.700163-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:21:22.700870-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:21:22.701678-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:21:23.455498-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:21:28.760213-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:21:28.762896-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000003f LAST-FCNT: 0000003e Duplicate: no
+2018-05-20T19:21:28.764782-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:21:28.770950-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:21:28.772688-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:21:28.774543-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:21:29.530294-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:21:34.831577-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:21:34.834414-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000040 LAST-FCNT: 0000003f Duplicate: no
+2018-05-20T19:21:34.839861-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:21:34.841564-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:21:34.843482-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:21:34.845337-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:21:35.590696-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:21:40.900726-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:21:40.903407-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000041 LAST-FCNT: 00000040 Duplicate: no
+2018-05-20T19:21:40.905108-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:21:40.906803-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:21:40.908543-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:21:40.915930-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:21:41.661077-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:21:46.958821-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:21:46.960934-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000042 LAST-FCNT: 00000041 Duplicate: no
+2018-05-20T19:21:46.961592-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:21:46.968984-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:21:46.969817-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:21:46.970620-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:21:47.716368-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:21:53.033714-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:21:53.036589-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000043 LAST-FCNT: 00000042 Duplicate: no
+2018-05-20T19:21:53.038294-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:21:53.039877-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:21:53.040776-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:21:53.041719-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:21:53.795734-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 00000019 REPEAT: 0
+2018-05-20T19:21:53.799019-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|MAC-COMMAND|ADR CMD 0330ff0001
+2018-05-20T19:21:53.799228-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 0 PKT-ROOM: 237
+2018-05-20T19:21:53.811495-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:21:53.815124-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:21:59.133116-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:21:59.135803-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000044 LAST-FCNT: 00000043 Duplicate: no
+2018-05-20T19:21:59.137505-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:21:59.139208-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:21:59.140720-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:2 
+2018-05-20T19:21:59.141143-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:21:59.925873-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:22:05.193671-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:22:05.196663-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000045 LAST-FCNT: 00000044 Duplicate: no
+2018-05-20T19:22:05.198367-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:22:05.199891-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:22:05.200600-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:22:05.201671-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:22:05.976980-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:22:11.264225-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:22:11.267251-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000046 LAST-FCNT: 00000045 Duplicate: no
+2018-05-20T19:22:11.268948-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:22:11.275756-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:22:11.276724-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:22:11.277536-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:22:12.041611-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:22:17.330774-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:22:17.337871-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000047 LAST-FCNT: 00000046 Duplicate: no
+2018-05-20T19:22:17.339671-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:22:17.341725-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:22:17.343454-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:22:17.345554-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:22:18.103710-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:22:23.399536-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:22:23.402225-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000048 LAST-FCNT: 00000047 Duplicate: no
+2018-05-20T19:22:23.408098-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:22:23.410470-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:22:23.411180-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:22:23.411988-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:22:24.172231-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:22:29.460665-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:22:29.463372-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000049 LAST-FCNT: 00000048 Duplicate: no
+2018-05-20T19:22:29.465360-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:22:29.471018-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:22:29.472995-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:22:29.475121-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:22:30.223492-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:22:35.526504-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:22:35.529176-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000004a LAST-FCNT: 00000049 Duplicate: no
+2018-05-20T19:22:35.529859-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:22:35.530108-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:22:35.530421-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:22:35.531108-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:22:36.286171-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:22:41.599208-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:22:41.600844-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000004b LAST-FCNT: 0000004a Duplicate: no
+2018-05-20T19:22:41.601100-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:22:41.601336-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:22:41.601648-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:22:41.602055-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:22:42.355704-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:22:47.668631-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:22:47.670865-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000004c LAST-FCNT: 0000004b Duplicate: no
+2018-05-20T19:22:47.671528-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:22:47.672183-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:22:47.673081-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:22:47.673897-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:22:48.425403-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:22:53.736599-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:22:53.739869-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000004d LAST-FCNT: 0000004c Duplicate: no
+2018-05-20T19:22:53.741569-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:22:53.743447-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:22:53.750367-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:22:53.752225-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:22:54.497075-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC4 DEV: 22-33-44-55 FCNT: 0000001a REPEAT: 0
+2018-05-20T19:22:54.502306-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|MAC-COMMAND|ADR CMD 0340ff0001
+2018-05-20T19:22:54.504299-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 0 PKT-ROOM: 237
+2018-05-20T19:22:54.515371-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:22:54.518587-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:22:59.773925-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:22:59.776592-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000004e LAST-FCNT: 0000004d Duplicate: no
+2018-05-20T19:22:59.778292-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:22:59.780055-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:22:59.781654-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:2 
+2018-05-20T19:22:59.782453-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:23:00.561179-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:23:05.844670-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:23:05.847161-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000004f LAST-FCNT: 0000004e Duplicate: no
+2018-05-20T19:23:05.848858-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:23:05.849926-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:23:05.856524-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:23:05.857338-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:23:06.623262-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:23:11.910516-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:23:11.913197-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000050 LAST-FCNT: 0000004f Duplicate: no
+2018-05-20T19:23:11.915191-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:23:11.916885-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:23:11.921561-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:23:11.923417-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:23:12.680940-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:23:17.975219-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:23:17.978103-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000051 LAST-FCNT: 00000050 Duplicate: no
+2018-05-20T19:23:17.980020-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:23:17.980631-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:23:17.980950-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:23:17.987203-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:23:18.763409-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:23:24.050520-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:23:24.053381-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000052 LAST-FCNT: 00000051 Duplicate: no
+2018-05-20T19:23:24.055079-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:23:24.056953-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:23:24.058677-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:23:24.060185-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:23:24.817766-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:23:30.109239-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:23:30.111312-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000053 LAST-FCNT: 00000052 Duplicate: no
+2018-05-20T19:23:30.111568-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:23:30.111811-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:23:30.112120-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:23:30.112522-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:23:30.883357-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:23:36.180404-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:23:36.183313-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000054 LAST-FCNT: 00000053 Duplicate: no
+2018-05-20T19:23:36.185259-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:23:36.186952-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:23:36.188683-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:23:36.194298-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:23:36.945274-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:23:42.241793-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:23:42.244709-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000055 LAST-FCNT: 00000054 Duplicate: no
+2018-05-20T19:23:42.246416-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:23:42.248409-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:23:42.249938-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:23:42.250746-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:23:43.013498-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:23:48.315311-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:23:48.317987-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000056 LAST-FCNT: 00000055 Duplicate: no
+2018-05-20T19:23:48.319777-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:23:48.321606-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:23:48.323523-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:23:48.331066-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:23:49.080598-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:23:54.379933-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:23:54.382607-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000057 LAST-FCNT: 00000056 Duplicate: no
+2018-05-20T19:23:54.390334-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:23:54.392031-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:23:54.393757-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:23:54.395692-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:23:55.144640-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:24:00.449088-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:24:00.455292-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000058 LAST-FCNT: 00000057 Duplicate: no
+2018-05-20T19:24:00.455954-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:24:00.456613-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:24:00.457444-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:24:00.458254-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:24:01.223221-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:24:06.520057-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:24:06.522728-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000059 LAST-FCNT: 00000058 Duplicate: no
+2018-05-20T19:24:06.524429-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:24:06.526122-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:24:06.532899-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:24:06.534755-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:24:07.302696-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:24:12.588704-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:24:12.592058-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000005a LAST-FCNT: 00000059 Duplicate: no
+2018-05-20T19:24:12.593966-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:24:12.595669-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:24:12.597398-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:24:12.599599-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:24:13.367147-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 0000001b REPEAT: 0
+2018-05-20T19:24:13.380866-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|MAC-COMMAND|ADR CMD 0330ff0001
+2018-05-20T19:24:13.382541-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 0 PKT-ROOM: 237
+2018-05-20T19:24:13.412446-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:24:13.415535-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:24:18.690567-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:24:18.693211-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000005b LAST-FCNT: 0000005a Duplicate: no
+2018-05-20T19:24:18.694916-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:24:18.696620-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:24:18.699249-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:2 
+2018-05-20T19:24:18.700117-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:24:19.471385-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:24:24.755053-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:24:24.757553-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000005c LAST-FCNT: 0000005b Duplicate: no
+2018-05-20T19:24:24.759263-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:24:24.759966-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:24:24.760539-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:24:24.766813-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:24:25.520362-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:24:30.823112-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:24:30.825834-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000005d LAST-FCNT: 0000005c Duplicate: no
+2018-05-20T19:24:30.827784-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:24:30.829574-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:24:30.831304-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:24:30.833315-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:24:31.595809-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:24:36.884621-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:24:36.887125-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000005e LAST-FCNT: 0000005d Duplicate: no
+2018-05-20T19:24:36.889290-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:24:36.889877-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:24:36.890201-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:24:36.895260-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:24:37.645889-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:24:42.952400-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:24:42.955079-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000005f LAST-FCNT: 0000005e Duplicate: no
+2018-05-20T19:24:42.956777-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:24:42.958479-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:24:42.960005-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:24:42.961021-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:24:43.718962-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:24:49.019732-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:24:49.022231-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000060 LAST-FCNT: 0000005f Duplicate: no
+2018-05-20T19:24:49.023934-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:24:49.025627-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:24:49.027506-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:24:49.033206-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:24:49.776879-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:24:55.090624-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:24:55.093289-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000061 LAST-FCNT: 00000060 Duplicate: no
+2018-05-20T19:24:55.094996-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:24:55.096692-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:24:55.101465-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:24:55.103322-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:24:55.845527-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:25:01.158031-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:25:01.160955-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000062 LAST-FCNT: 00000061 Duplicate: no
+2018-05-20T19:25:01.162678-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:25:01.164376-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:25:01.166113-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:25:01.167978-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:25:01.912200-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:25:07.230595-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:25:07.233176-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000063 LAST-FCNT: 00000062 Duplicate: no
+2018-05-20T19:25:07.234947-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:25:07.238131-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:25:07.245796-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:25:07.247662-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:25:08.042176-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:25:13.300682-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:25:13.303349-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000064 LAST-FCNT: 00000063 Duplicate: no
+2018-05-20T19:25:13.305332-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:25:13.307175-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:25:13.308924-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:25:13.315022-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:25:14.083275-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:25:19.361366-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:25:19.363859-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000065 LAST-FCNT: 00000064 Duplicate: no
+2018-05-20T19:25:19.365566-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:25:19.367262-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:25:19.369588-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:25:19.378345-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:25:20.136519-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC2 DEV: 22-33-44-55 FCNT: 0000001c REPEAT: 0
+2018-05-20T19:25:20.141309-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|MAC-COMMAND|ADR CMD 0340ff0001
+2018-05-20T19:25:20.142976-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 0 PKT-ROOM: 237
+2018-05-20T19:25:20.154153-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:25:20.157821-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:25:25.402711-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:25:25.405212-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000066 LAST-FCNT: 00000065 Duplicate: no
+2018-05-20T19:25:25.406911-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:25:25.408613-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:25:25.417173-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:2 
+2018-05-20T19:25:25.417983-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:25:26.175247-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:25:31.472101-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:25:31.474599-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000067 LAST-FCNT: 00000066 Duplicate: no
+2018-05-20T19:25:31.481911-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:25:31.483616-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:25:31.485354-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:25:31.487271-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:25:32.241600-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:25:37.535522-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:25:37.538144-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000068 LAST-FCNT: 00000067 Duplicate: no
+2018-05-20T19:25:37.539858-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:25:37.540521-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:25:37.541237-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:25:37.542052-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:25:38.301391-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:25:43.606028-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:25:43.608809-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000069 LAST-FCNT: 00000068 Duplicate: no
+2018-05-20T19:25:43.610056-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:25:43.610715-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:25:43.611429-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:25:43.612359-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:25:44.364800-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:25:49.674534-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:25:49.677580-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000006a LAST-FCNT: 00000069 Duplicate: no
+2018-05-20T19:25:49.679281-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:25:49.679864-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:25:49.680189-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:25:49.680602-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:25:50.440270-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:25:55.747455-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:25:55.750470-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000006b LAST-FCNT: 0000006a Duplicate: no
+2018-05-20T19:25:55.752185-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:25:55.753879-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:25:55.760453-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:25:55.762309-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:25:56.506521-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:26:01.354129-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:26:01.355989-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|CRC-ERROR
+2018-05-20T19:26:01.815132-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:26:01.817645-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000006c LAST-FCNT: 0000006b Duplicate: no
+2018-05-20T19:26:01.819736-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:26:01.825907-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:26:01.827644-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:26:01.829595-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:26:02.571641-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:26:07.890579-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:26:07.893081-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000006d LAST-FCNT: 0000006c Duplicate: no
+2018-05-20T19:26:07.895068-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:26:07.896978-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:26:07.898723-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:26:07.905911-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:26:08.657718-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:26:13.954564-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:26:13.957057-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000006e LAST-FCNT: 0000006d Duplicate: no
+2018-05-20T19:26:13.958768-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:26:13.959949-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:26:13.960663-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:26:13.966050-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:26:14.736937-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 0000001d REPEAT: 0
+2018-05-20T19:26:14.742033-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|MAC-COMMAND|ADR CMD 0330ff0001
+2018-05-20T19:26:14.743703-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 0 PKT-ROOM: 237
+2018-05-20T19:26:14.754849-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:26:14.758280-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:26:20.051796-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:26:20.054288-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000006f LAST-FCNT: 0000006e Duplicate: no
+2018-05-20T19:26:20.055992-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:26:20.057695-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:26:20.064737-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:2 
+2018-05-20T19:26:20.066600-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:26:20.844859-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:26:26.118923-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:26:26.120818-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000070 LAST-FCNT: 0000006f Duplicate: no
+2018-05-20T19:26:26.121488-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:26:26.122149-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:26:26.123051-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:26:26.123869-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:26:26.894664-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:26:32.188713-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:26:32.190881-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000071 LAST-FCNT: 00000070 Duplicate: no
+2018-05-20T19:26:32.191547-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:26:32.192206-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:26:32.192919-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:26:32.193731-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:26:32.957303-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:26:38.255728-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:26:38.258477-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000072 LAST-FCNT: 00000071 Duplicate: no
+2018-05-20T19:26:38.259967-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:26:38.266495-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:26:38.267210-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:26:38.268031-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:26:39.020898-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:26:44.323592-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:26:44.326091-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000073 LAST-FCNT: 00000072 Duplicate: no
+2018-05-20T19:26:44.327800-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:26:44.329609-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:26:44.337527-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:26:44.339392-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:26:45.085580-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:26:50.392237-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:26:50.394950-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000074 LAST-FCNT: 00000073 Duplicate: no
+2018-05-20T19:26:50.396662-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:26:50.402285-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:26:50.404023-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:26:50.406021-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:26:51.161069-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:26:56.460140-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:26:56.463077-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000075 LAST-FCNT: 00000074 Duplicate: no
+2018-05-20T19:26:56.464782-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:26:56.466548-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:26:56.468283-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:26:56.474303-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:26:57.221638-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC7 DEV: 22-33-44-55 FCNT: 0000001e REPEAT: 0
+2018-05-20T19:26:57.224991-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|MAC-COMMAND|ADR CMD 0340ff0001
+2018-05-20T19:26:57.225215-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 0 PKT-ROOM: 237
+2018-05-20T19:26:57.244496-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:26:57.247592-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:27:02.510685-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:27:02.513632-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000076 LAST-FCNT: 00000075 Duplicate: no
+2018-05-20T19:27:02.515330-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:27:02.517238-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:27:02.519876-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:2 
+2018-05-20T19:27:02.521730-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:27:03.271245-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:27:08.566022-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:27:08.568894-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000077 LAST-FCNT: 00000076 Duplicate: no
+2018-05-20T19:27:08.569854-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:27:08.570510-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:27:08.571220-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:27:08.572022-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:27:09.353479-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:27:14.629217-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:27:14.630849-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000078 LAST-FCNT: 00000077 Duplicate: no
+2018-05-20T19:27:14.631104-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:27:14.631341-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:27:14.631650-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:27:14.632282-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:27:15.404713-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:27:16.859968-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:27:16.861832-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|CRC-ERROR
+2018-05-20T19:27:20.697949-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:27:20.701025-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00000079 LAST-FCNT: 00000078 Duplicate: no
+2018-05-20T19:27:20.702732-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:27:20.704489-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:27:20.706230-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:27:20.708454-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:61 ms
+2018-05-20T19:27:21.505732-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FRAME-TX|Nothing to transmit
+2018-05-20T19:27:22.383246-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:134
+2018-05-20T19:27:22.385286-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:27:25.063520-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:135
+2018-05-20T19:27:25.065223-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:27:26.769179-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:27:26.771136-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000007a LAST-FCNT: 00000079 Duplicate: no
+2018-05-20T19:27:26.771391-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:27:26.771627-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:27:26.771939-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:27:26.772340-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:62 ms
+2018-05-20T19:27:27.403266-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:136
+2018-05-20T19:27:27.404969-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:27:27.545400-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 0000001f REPEAT: 0
+2018-05-20T19:27:27.548723-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 3 PKT-ROOM: 242
+2018-05-20T19:27:27.560623-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:27:27.563702-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:27:29.630610-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:137
+2018-05-20T19:27:29.632311-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:27:32.077679-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:138
+2018-05-20T19:27:32.077951-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:27:32.835001-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:27:32.837677-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 0000007b LAST-FCNT: 0000007a Duplicate: no
+2018-05-20T19:27:32.839377-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 passed
+2018-05-20T19:27:32.839858-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|PER|0.000000%
+2018-05-20T19:27:32.840176-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|FCTRL|ADR:1 ADRACK:0 ACK:0 CLASS:A OPTS:0 
+2018-05-20T19:27:32.840590-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Use RX1 TOA:62 ms
+2018-05-20T19:27:33.612762-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-TX|IP: 127.0.0.1:33557 CH: LC9 DEV: 22-33-44-55 FCNT: 00000020 REPEAT: 0
+2018-05-20T19:27:33.617580-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|SCHED-TX|Q-SIZE: 4 PKT-ROOM: 242
+2018-05-20T19:27:33.628457-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|UDP-TX|JSON-SIZE:300
+2018-05-20T19:27:33.631531-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|TX-ACK|OK
+2018-05-20T19:27:34.403398-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:139
+2018-05-20T19:27:34.405105-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:27:37.026543-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:140
+2018-05-20T19:27:37.028240-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:27:39.656330-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:141
+2018-05-20T19:27:39.658033-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:27:41.807610-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:142
+2018-05-20T19:27:41.809312-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:27:44.366512-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE|Created downlink record ID:143
+2018-05-20T19:27:44.366782-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|QUEUE-TX|DATA SIZE: 5
+2018-05-20T19:27:49.955000-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:27:49.957734-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|MAX_FCNT_GAP exceeded diff: 13110591836605448070
+2018-05-20T19:27:49.959412-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00010001 LAST-FCNT: 0000007b Duplicate: no
+2018-05-20T19:27:49.960420-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 failed
+2018-05-20T19:27:49.960674-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|DROP-PKT|Addr: 22:33:44:55 Duplicate: no
+2018-05-20T19:27:53.831208-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:27:53.833337-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|CRC-ERROR
+2018-05-20T19:27:56.022553-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:27:56.025518-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|MAX_FCNT_GAP exceeded diff: 65415
+2018-05-20T19:27:56.032003-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00010002 LAST-FCNT: 0000007b Duplicate: no
+2018-05-20T19:27:56.033705-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 failed
+2018-05-20T19:27:56.035577-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|DROP-PKT|Addr: 22:33:44:55 Duplicate: no
+2018-05-20T19:28:02.080517-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:28:02.083238-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|MAX_FCNT_GAP exceeded diff: 13115360504434458504
+2018-05-20T19:28:02.084911-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00010003 LAST-FCNT: 0000007b Duplicate: no
+2018-05-20T19:28:02.086619-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 failed
+2018-05-20T19:28:02.088487-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|DROP-PKT|Addr: 22:33:44:55 Duplicate: no
+2018-05-20T19:28:08.151656-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:28:08.154444-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|MAX_FCNT_GAP exceeded diff: 13115360504434458505
+2018-05-20T19:28:08.156115-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00010004 LAST-FCNT: 0000007b Duplicate: no
+2018-05-20T19:28:08.157822-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 failed
+2018-05-20T19:28:08.160041-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|DROP-PKT|Addr: 22:33:44:55 Duplicate: no
+2018-05-20T19:28:14.220744-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:28:14.223617-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|MAX_FCNT_GAP exceeded diff: 65418
+2018-05-20T19:28:14.225288-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00010005 LAST-FCNT: 0000007b Duplicate: no
+2018-05-20T19:28:14.226985-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 failed
+2018-05-20T19:28:14.233630-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|DROP-PKT|Addr: 22:33:44:55 Duplicate: no
+2018-05-20T19:28:20.285797-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:28:20.288889-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|MAX_FCNT_GAP exceeded diff: 13115360504434458507
+2018-05-20T19:28:20.289831-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00010006 LAST-FCNT: 0000007b Duplicate: no
+2018-05-20T19:28:20.290492-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 failed
+2018-05-20T19:28:20.291158-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|DROP-PKT|Addr: 22:33:44:55 Duplicate: no
+2018-05-20T19:28:26.343948-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-20T19:28:26.346537-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|MAX_FCNT_GAP exceeded diff: 13115360504434458508
+2018-05-20T19:28:26.348219-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-PKT|FCNT: 00010007 LAST-FCNT: 0000007b Duplicate: no
+2018-05-20T19:28:26.349856-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|CHECK-MIC|ADDR: 22-33-44-55 failed
+2018-05-20T19:28:26.355168-04:00 mtcap lora-network-server: ED:ab-f7-15-88-09-cf-4f-3c|DROP-PKT|Addr: 22:33:44:55 Duplicate: no
