@@ -1,0 +1,9 @@
+admin@mtcap:~# tail -f /var/log/messages
+
+2018-05-28T13:10:44.927358-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-28T13:10:44.929557-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|CRC-ERROR
+2018-05-28T13:11:54.977183-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-28T13:11:54.979041-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|CRC-ERROR
+2018-05-28T13:13:59.379345-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|Parsing 1 packets
+2018-05-28T13:13:59.380047-04:00 mtcap lora-network-server: GW:00-80-00-00-00-01-0b-2b|FRAME-RX|CRC-ERROR
+
