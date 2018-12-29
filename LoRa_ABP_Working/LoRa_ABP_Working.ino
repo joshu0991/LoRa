@@ -97,6 +97,13 @@ void setup(void)
 void loop(void)
 {
     //bool result = lora.transferPacket(&frame_counter, 1, DEFAULT_RESPONSE_TIMEOUT);
+    while (SerialUSB.available() > 0) 
+    {
+        SerialUSB.read();
+        SerialUSB.println("Got serial data");
+        i++;
+    }
+
     bool result = lora.transferPacket("Hello", 5);
     lora.loraDebug();
     
