@@ -1,0 +1,30 @@
+﻿To get started from the seeeduino:
+
+1) Plug the seeeduino board into a USB port on your computer.
+2) Open the arduino programming environment (if you don’t have it already you’ll need to download and install it)
+3) In the arduino environment click open project and choose LoRa_ABP_Working.ino
+4) Select the comm port and board in the tools drop down menu that correspond to your board and comm port. 
+5) Click upload
+6) An easy way to interact with the LoRa device from python can be found in the serial_interface.py. You will need to instantiate the LoRaInterface with the correct comm port. Examples can be found in the source code.
+
+Notes:
+Sometimes the arduino environment will fail to flash the code to the board for various reasons. A few reasons may include, but are not limited to, the commport has not been released from the kernel yet from a previous attempt, which can cause exceptions, the easiest thing to do is just keep trying. It can take awhile sometimes to get the code to flash to the board correctly. On success you will see the CPU rest message and a message saying it is done saving.
+
+To get started from the gateway:
+
+1) connect the gateway to a computer or network.
+2) ssh into the gateway and login. Alternatively one can plug in the ip to navigate to the login page. It’s possible to do the next steps from either. 
+3) Depending on which choice you chose, you will need to add a new device with the correct keys. How to do this from the terminal can be found in the useful notes file.
+4) Depending on if you are running a back end server you will also need to put the gateway into network server (no back end server) mode or packet forwarding mode (to send data to back end server). 
+
+Notes:
+See the useful references document for commands for tailing the logs for errors.
+
+Back end server set up:
+
+This link gives most of the instructions to get the gateway to communicate with a LoRa server. It’s fairly straight forward.
+
+https://www.loraserver.io/loraserver/overview/
+
+
+
